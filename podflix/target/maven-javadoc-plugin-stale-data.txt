@@ -1,0 +1,53 @@
+@options
+@packages
+-classpath
+'C:/Users/User/.m2/repository/org/hibernate/orm/hibernate-core/6.1.5.Final/hibernate-core-6.1.5.Final.jar;C:/Users/User/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.0.0/jakarta.persistence-api-3.0.0.jar;C:/Users/User/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.0/jakarta.transaction-api-2.0.0.jar;C:/Users/User/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar;C:/Users/User/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/User/Documents/Renan/Projetos JAVA/podflix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/User/Documents/Renan/Projetos JAVA/podflix/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'podflix 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'podflix 1.0-SNAPSHOT API'
+br.com.podflix.podflix
+br.com.podflix.views
+C:\Users\User\.m2\repository\org\hibernate\orm\hibernate-core\6.1.5.Final\hibernate-core-6.1.5.Final.jar = 1684363884850
+C:\Users\User\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.0.0\jakarta.persistence-api-3.0.0.jar = 1684363880555
+C:\Users\User\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.0\jakarta.transaction-api-2.0.0.jar = 1684363880632
+C:\Users\User\.m2\repository\com\mysql\mysql-connector-j\8.0.31\mysql-connector-j-8.0.31.jar = 1684364105077
+C:\Users\User\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1684364106488
+D:\User\Documents\Renan\Projetos JAVA\podflix\src\main\java = 1684764581879
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\allclasses-index.html = 1684766547504
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\allpackages-index.html = 1684766547513
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\element-list = 1684766547245
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\help-doc.html = 1684766547601
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\index-all.html = 1684766547584
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\index.html = 1684766547475
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\javadoc.bat = 1684766054513
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\jquery-ui.overrides.css = 1684766547661
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\member-search-index.js = 1684766547529
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\module-search-index.js = 1684766547516
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\overview-summary.html = 1684766547593
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\overview-tree.html = 1684766547467
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\package-search-index.js = 1684766547523
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\script.js = 1684766547609
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\search.js = 1684766547612
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\serialized-form.html = 1684766547388
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\stylesheet.css = 1684766547607
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\tag-search-index.js = 1684766547531
+D:\User\Documents\Renan\Projetos JAVA\podflix\target\site\apidocs\type-search-index.js = 1684766547526
